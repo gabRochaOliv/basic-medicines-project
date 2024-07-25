@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1721675092 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalhoalan_1\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
+1721671402 c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalhoalan_1\estoque.h
+
+1721673902 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalhoalan_1\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
